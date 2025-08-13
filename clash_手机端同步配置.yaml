@@ -4,7 +4,7 @@
 # 机场订阅
 proxy-providers:
   Airport1:
-    url: "https://s1.trojanflare.one/clashx/f8a6ab58-2e61-49c4-9ec4-e42ed15dc062"
+    url: ""
     type: http
     interval: 86400
     health-check:
@@ -13,7 +13,7 @@ proxy-providers:
       interval: 300
     proxy: 直连
   Airport2:
-    url: "https://jsjc.cfd/api/v1/client/subscribe?token=2ccc0618b7909aa37469c59fa0aed33b"
+    url: ""
     type: http
     interval: 86400
     health-check:
@@ -22,7 +22,7 @@ proxy-providers:
       interval: 300
     proxy: 直连    
   Airport3:
-    url: "https://img.jiumaojiu.net/static/6ce90c9c6a7a9338eca198585708adf2"
+    url: ""
     type: http
     interval: 86400
     health-check:
@@ -31,7 +31,7 @@ proxy-providers:
       interval: 300
     proxy: 🌏 默认代理
   Airport4:
-    url: "https://freecloud.buzz/api/v1/client/subscribe?token=9b4a7cb600586933fd88ae391777dffb"
+    url: ""
     type: http
     interval: 86400
     health-check:
