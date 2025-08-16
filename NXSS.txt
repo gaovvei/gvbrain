@@ -1,0 +1,1084 @@
+{
+    "proxies": [
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12001,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇭🇰 Hong Kong 01"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12002,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇭🇰 Hong Kong 02"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12003,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇭🇰 Hong Kong 03"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12004,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇭🇰 Hong Kong 04"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12005,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇭🇰 Hong Kong 05"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12006,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇭🇰 Hong Kong 06"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12007,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇭🇰 Hong Kong 07"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12008,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇭🇰 Hong Kong 08"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12009,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇭🇰 Hong Kong 09"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12010,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇭🇰 Hong Kong 10"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12002,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇭🇰 Hong Kong 11"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12003,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇭🇰 Hong Kong 12"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12004,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇭🇰 Hong Kong 13"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12005,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇭🇰 Hong Kong 14"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12006,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇭🇰 Hong Kong 15"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12007,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇭🇰 Hong Kong 16"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12008,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇭🇰 Hong Kong 17"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12009,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇭🇰 Hong Kong 18"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12010,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇭🇰 Hong Kong 19"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12049,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇭🇰 Hong Kong 20 [Premium]"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12050,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇭🇰 Hong Kong 21 [Premium]"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12051,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇭🇰 Hong Kong 22 [Premium]"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12001,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇭🇰 Hong Kong 23"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12023,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇺🇸 USA Seattle 01"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12024,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇺🇸 USA Seattle 02"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12025,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇺🇸 USA Seattle 03"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12026,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇺🇸 USA Seattle 04"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12027,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇺🇸 USA Seattle 05"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12028,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇺🇸 USA Seattle 06"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12023,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇺🇸 USA Seattle 07"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12024,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇺🇸 USA Seattle 08"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12025,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇺🇸 USA Seattle 09"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12052,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇺🇸 USA San Jose 01 [Premium]"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12053,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇺🇸 USA San Jose 02 [Premium]"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12054,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇺🇸 USA San Jose 03 [Premium]"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12055,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇺🇸 USA San Jose 04 [Premium]"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12056,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇺🇸 USA San Jose 05 [Premium]"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12057,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇺🇸 USA San Jose 06 [Premium]"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12026,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇺🇸 USA San Jose 07"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12027,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇺🇸 USA San Jose 08"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12028,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇺🇸 USA Los Angeles 01"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12023,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇺🇸 USA Los Angeles 02"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12024,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇺🇸 USA Los Angeles 03"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12025,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇺🇸 USA Los Angeles 04"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12026,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇺🇸 USA Los Angeles 05"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12027,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇺🇸 USA Los Angeles 06"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12028,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇺🇸 USA Los Angeles 07"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12011,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇯🇵 Japan 01"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12012,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇯🇵 Japan 02"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12013,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇯🇵 Japan 03"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12014,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇯🇵 Japan 04"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12015,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇯🇵 Japan 05"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12016,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇯🇵 Japan 06"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12011,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇯🇵 Japan 07"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12012,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇯🇵 Japan 08"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12013,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇯🇵 Japan 09"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12014,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇯🇵 Japan 10"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12015,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇯🇵 Japan 11"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12016,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇯🇵 Japan 12"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12011,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇯🇵 Japan 13"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12012,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇯🇵 Japan 14"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12013,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇯🇵 Japan 15"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12014,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇯🇵 Japan 16"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12015,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇯🇵 Japan 17"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12016,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇯🇵 Japan 18"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12011,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇯🇵 Japan 19"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12012,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇯🇵 Japan 20"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12013,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇯🇵 Japan 21"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12058,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇯🇵 Japan 22 [Premium]"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12059,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇯🇵 Japan 23 [Premium]"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12013,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇯🇵 Japan 24"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12014,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇯🇵 Japan 25"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12015,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇯🇵 Japan 26"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12016,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇯🇵 Japan 27"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12039,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇳🇱 Netherlands 01"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12060,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇷🇺 Russia St. Petersburg"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12061,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇷🇺 Russia Moscow 01"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12037,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇩🇪 Germany 01"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12038,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇩🇪 Germany 02"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12040,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇫🇷 France 01"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12062,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇨🇭 Switzerland 01"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12063,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇨🇭 Switzerland 02"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12043,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇬🇧 UK London 01"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12044,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇬🇧 UK London 02"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12043,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇬🇧 UK London 03"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12044,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇬🇧 UK London 04"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12043,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇬🇧 UK London 05"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12044,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇬🇧 UK Coventry 01"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12043,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇬🇧 UK Coventry 02"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12044,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇬🇧 UK Coventry 03"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12064,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇸🇪 Sweden 01"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12065,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇧🇬 Bulgaria 01"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12047,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇦🇹 Austria 01"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12066,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇮🇪 Ireland 01"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12067,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇮🇪 Ireland 02"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12048,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇹🇷 Turkey 01"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12068,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇭🇺 Hungary 01"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12035,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇰🇷 Korea 01"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12035,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇰🇷 Korea 02"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12069,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇰🇷 Korea 03 [Premium]"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12036,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇰🇷 Korea 04"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12029,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇨🇳 Taiwan 01"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12030,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇨🇳 Taiwan 02"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12031,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇨🇳 Taiwan 03"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12032,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇨🇳 Taiwan 04"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12033,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇨🇳 Taiwan 05"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12034,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇨🇳 Taiwan 06"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12029,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇨🇳 Taiwan 07"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12030,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇨🇳 Taiwan 08"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12031,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇨🇳 Taiwan 09"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12032,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇨🇳 Taiwan 10"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12045,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇨🇦 Canada 01"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12046,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇨🇦 Canada 02"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12045,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇨🇦 Canada 03"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12070,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇦🇺 Australia Sydney 01 [Premium]"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12047,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇦🇺 Australia Sydney 02"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12071,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇦🇪 United Arab Emirates 01"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12041,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇮🇳 India 01"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12042,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇮🇳 India 02"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12072,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇮🇩 Indonesia 01"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12073,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇧🇷 Brazil 01"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12074,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇦🇷 Argentina 01"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12075,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇨🇱 Chile 01"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12017,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇸🇬 Singapore 01"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12018,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇸🇬 Singapore 02"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12019,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇸🇬 Singapore 03"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12020,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇸🇬 Singapore 04"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12021,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇸🇬 Singapore 05"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12022,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇸🇬 Singapore 06"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12017,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇸🇬 Singapore 07"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12018,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇸🇬 Singapore 08"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12019,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇸🇬 Singapore 09"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12020,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇸🇬 Singapore 10"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12076,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇸🇬 Singapore 11 [Premium]"
+        },
+        {
+            "type": "ss",
+            "server": "nextally0bdjhhusdg.blhao0o.dpdns.org",
+            "port": 12022,
+            "cipher": "aes-128-gcm",
+            "password": "7915729f-6a02-4244-9f73-24f3e390541d",
+            "name": "🇸🇬 Singapore 12"
+        }
+    ]
+}
